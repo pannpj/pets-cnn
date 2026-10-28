@@ -1,0 +1,8 @@
+{
+  "split_used": "validation only",
+  "majority_class": "Persian",
+  "majority_accuracy": 0.10067114093959731,
+  "majority_macro_f1": 0.018292682926829267,
+  "logistic_regression_accuracy": 0.18456375838926176,
+  "logistic_regression_macro_f1": 0.17771998432906003
+}

@@ -1,0 +1,30 @@
+{
+  "seed": 42,
+  "image_size": 64,
+  "class_names": [
+    "Persian",
+    "Ragdoll",
+    "Birman",
+    "Maine Coon",
+    "Siamese",
+    "Beagle",
+    "Basset Hound",
+    "American Pit Bull Terrier",
+    "Staffordshire Bull Terrier",
+    "Pug"
+  ],
+  "total_images": 1988,
+  "train_images": 1391,
+  "validation_images": 298,
+  "test_images": 299,
+  "train_mean": [
+    0.4820140302181244,
+    0.4492906332015991,
+    0.3960590660572052
+  ],
+  "train_std": [
+    0.2537180185317993,
+    0.2511528730392456,
+    0.2605602443218231
+  ]
+}
