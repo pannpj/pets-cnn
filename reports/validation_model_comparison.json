@@ -1,0 +1,8 @@
+{
+  "selection_split": "validation",
+  "selection_metric": "macro-F1",
+  "cnn_control_best_validation_macro_f1": 0.6028230719418188,
+  "cnn_augmented_best_validation_macro_f1": 0.47024336197701666,
+  "selected_model": "cnn_control",
+  "selected_checkpoint": "outputs/cnn_control/best_model.pt"
+}
